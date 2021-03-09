@@ -1,3 +1,3 @@
-# primzahl
+# Primzahl
 
 Ein Primzahlerkenner in Python (TigerJython).
